@@ -1,2 +1,2 @@
 # bookbot
-some book reading bot in Python
+Bookbot is my first project on bootdev
